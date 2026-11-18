@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/seungjun-cha/) · [Google Scholar](https://scholar.google.com/citations?user=2k63_VoAAAAJ&hl=en)
 
-I'm a **PhD student in Computational Science and Engineering at Georgia Tech** 🐝. I develop machine-learned interatomic potentials (MLIPs) and agentic framework for materials discovery. My work combines atomistic simulations and autonomous workflow to investigate materials surfaces/interfaces.
+I'm a **PhD student in Computational Science and Engineering at Georgia Tech** 🐝. I develop AI-driven scientific discovery frameworks that integrate LLM agents, machine-learned interatomic potentials, and atomistic simulations. My research focuses on accelerating materials design and understanding surface/interface phenomena in optoelectronic materials.
 
 ### 💼 Research Experience
 
